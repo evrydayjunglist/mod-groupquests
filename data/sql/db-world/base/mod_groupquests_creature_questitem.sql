@@ -461,8 +461,8 @@ INSERT INTO `creature_questitem` (`CreatureEntry`, `Idx`, `ItemId`) VALUES (2579
 DELETE FROM `creature_questitem` WHERE `CreatureEntry`=25839 AND `ItemId`=35222;
 INSERT INTO `creature_questitem` (`CreatureEntry`, `Idx`, `ItemId`) VALUES (25839, 0, 35222);
 -- Northsea Thug
-DELETE FROM `creature_questitem` WHERE `CreatureEntry`=25844 AND `ItemId`=35222;
-INSERT INTO `creature_questitem` (`CreatureEntry`, `Idx`, `ItemId`) VALUES (25844, 0, 35222);
+DELETE FROM `creature_questitem` WHERE `CreatureEntry`=25843 AND `ItemId`=35222;
+INSERT INTO `creature_questitem` (`CreatureEntry`, `Idx`, `ItemId`) VALUES (25843, 0, 35222);
 
 -- Frostberry (Quest: Nuts for Berries (Id: 11912))
 -- Coldarra Scalesworn
